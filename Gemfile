@@ -4,7 +4,7 @@ gem 'rails', '3.2.13'
 
 gem 'sqlite3', '1.3.5'
 
-gem 'rb-readline'
+gem 'rb-readline', '0.4.0'
 
 group :assets do
 	gem 'sass-rails',   '3.2.4'
