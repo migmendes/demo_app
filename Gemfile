@@ -7,7 +7,7 @@ gem 'sqlite3', '1.3.5'
 gem 'rb-readline', '0.4.0'
 
 group :assets do
-	gem 'sass-rails',   '3.2.4'
+	gem 'sass-rails',   '>= 3.2.4'
 	gem 'coffee-rails', '3.2.2'
 
   # See https://github.com/sstephenson/execjs#readme for more supported runtimes
